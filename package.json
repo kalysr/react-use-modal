@@ -1,10 +1,10 @@
 {
-  "name": "use-react-modal",
+  "name": "use-global-react-modal",
   "version": "1.0.0",
   "description": "react use modal hook",
   "author": "Kalys",
   "license": "MIT",
-  "repository": "Kalysr/use-react-modal",
+  "repository": "Kalysr/use-global-react-modal",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
