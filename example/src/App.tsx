@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { useModal, ModalProvider, useModalDynamic } from 'use-modal'
+import { useModal, ModalProvider, useModalDynamic } from 'use-react-modal'
 
 const modalId = Symbol()
 const modalId2 = Symbol()

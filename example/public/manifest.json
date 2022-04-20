@@ -1,6 +1,6 @@
 {
-  "short_name": "use-modal",
-  "name": "use-modal",
+  "short_name": "use-react-modal",
+  "name": "use-react-modal",
   "icons": [
     {
       "src": "favicon.ico",

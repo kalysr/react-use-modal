@@ -1,13 +1,13 @@
-# use-modal
+# use-react-modal
 
 > react use modal hook
 
-[![NPM](https://img.shields.io/npm/v/use-modal.svg)](https://www.npmjs.com/package/use-modal) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/use-react-modal.svg)](https://www.npmjs.com/package/use-react-modal) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save use-modal
+npm install --save use-react-modal
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save use-modal
 ```tsx
 import React from 'react'
 
-import { useModal, ModalProvider, useModalDynamic } from 'use-modal'
+import { useModal, ModalProvider, useModalDynamic } from 'use-react-modal'
 
 const modalId = Symbol()
 const modalId2 = Symbol()
