@@ -4,7 +4,10 @@
   "description": "react use modal hook",
   "author": "Kalys",
   "license": "MIT",
-  "repository": "Kalysr/use-global-react-modal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalysr/use-global-react-modal"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
